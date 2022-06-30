@@ -15,11 +15,11 @@ Site published at: https://anonsas.github.io/13-navbar/
 ## Project features
 
 - Github pages
-- `<style>` tag
-- pseudo-element
+- responsive design
 - transition
 - box-shadow
 - icons
+- media queries
 
 ## Authors
 
